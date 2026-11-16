@@ -1,6 +1,6 @@
-# [41] Honeypot Creator — Python
+# Honeypot Creator — Python
 
-A lightweight, **zero-dependency** Python 3 implementation of Project **[41] Honeypot creator** built in the exact single-script CLI style of `kurogai/100-redteam-projects`.
+A lightweight, **zero-dependency** Python 3 implementation of Project **Honeypot creator** built in the exact single-script CLI style of `kurogai/100-redteam-projects`.
 
 ## How It Works
 - **Pure Standard Library:** Uses only built-in `socket`, `threading`, `json`, and `argparse` modules—no external `pip install` required.
